@@ -119,7 +119,7 @@ image_id,data_provider,isup_grade,gleason_score,split
 031f5ef5b254fbacd6fbd279ebfe5cc0,karolinska,5,4+5,3
 0325d6b779870b7bd216f3a81f6ab3d7,radboud,0,negative,2
 032de36af1c776f91dfbe4079cf3c002,karolinska,1,3+3,3
-033e39459301e97e457232780a314ab7,karolinska,0,0+0,0
+033e39459301e97e457232780a314ab7,karolinska,0,0+0,-1
 03426e9293f207de46b5592c001eb45c,radboud,4,4+4,3
 034add55dd7134b7b5893d787eb5a32c,radboud,3,4+3,2
 035587e63d72f8537b3fce5067bb18df,karolinska,0,0+0,0
@@ -445,7 +445,7 @@ image_id,data_provider,isup_grade,gleason_score,split
 0b60ac39ce977146c4bd7978d62bedeb,radboud,5,5+4,1
 0b6a90e1c27bf54488c1f7697c6ce599,radboud,0,negative,0
 0b6d642c9b160678dcfff095c21ce09f,karolinska,0,0+0,1
-0b6e34bf65ee0810c1a4bf702b667c88,karolinska,0,0+0,2
+0b6e34bf65ee0810c1a4bf702b667c88,karolinska,0,0+0,-1
 0b73719f81c77051bb4b0ece8647a48e,radboud,5,5+4,2
 0b750909b5179cc92b2082a6c5e7ef72,karolinska,3,4+3,2
 0b7e106ad1484a6e887b55b18834b740,karolinska,1,3+3,1
@@ -2052,7 +2052,7 @@ image_id,data_provider,isup_grade,gleason_score,split
 3380c3e1993e6ab8c7d6910fb2cabc9f,karolinska,2,3+4,2
 3381ea445ec8554a5cb3e7d3153fc0c1,radboud,3,4+3,1
 33828bf89098a295d028099fa2d3560e,karolinska,1,3+3,3
-3385a0f7f4f3e7e7b380325582b115c9,karolinska,0,0+0,2
+3385a0f7f4f3e7e7b380325582b115c9,karolinska,0,0+0,-1
 33886505edad882dfed435954e9723e5,karolinska,1,3+3,2
 338e30b609bbf80246203caf63a2f0a0,radboud,3,4+3,3
 33988246de7efa7c24f3c2224cba333e,radboud,5,4+5,3
@@ -2226,7 +2226,7 @@ image_id,data_provider,isup_grade,gleason_score,split
 378e5f9c174b753e2269e584ba82a086,radboud,1,3+3,3
 378f0ea443c45b7cb1cb8e0cc86a5992,karolinska,0,0+0,1
 3790419eed3f86165b0cb74ea30aaa01,karolinska,0,0+0,3
-3790f55cad63053e956fb73027179707,karolinska,0,0+0,3
+3790f55cad63053e956fb73027179707,karolinska,0,0+0,-1
 3795ba90ba4303d37accaa4eaf82c747,radboud,3,4+3,0
 379a40c0c5b897ffd42d5567d40968da,karolinska,1,3+3,0
 37a8139578e30b6572bfd3d2145e6543,radboud,0,negative,3
@@ -3286,7 +3286,7 @@ image_id,data_provider,isup_grade,gleason_score,split
 51fc45502634ba97726929d243438c63,radboud,4,4+4,2
 51ff3767b587bc0e3d8bf9252fe7e1d0,karolinska,0,0+0,3
 5203b6b2f6c3e46cdb2f09b9d99a5ecd,radboud,3,4+3,0
-5204134e82ce75b1109cc1913d81abc6,radboud,0,negative,1
+5204134e82ce75b1109cc1913d81abc6,radboud,0,negative,-1
 520d1cc8cb7136e54472a33e202b3d1f,karolinska,5,4+5,2
 521da07cca3ad8a9615ad591d9375538,radboud,0,negative,0
 5220a2cb778f8567ebf7f81ab2b103ff,radboud,5,4+5,0
@@ -6592,7 +6592,7 @@ a081ddde3cf1cf227b66ca1273be9459,radboud,0,negative,2
 a08642ee66d28e4216bda09d27e5df99,karolinska,0,0+0,0
 a08bb66f1450552e0f8d32b4e6a89254,radboud,2,3+4,3
 a08c211e99f5213d2c8e93e39b02cd8f,radboud,3,4+3,0
-a08e24cff451d628df797efc4343e13c,radboud,4,4+4,0
+a08e24cff451d628df797efc4343e13c,radboud,4,4+4,-1
 a099b54eb2b17f63033f310eba0a61fc,radboud,3,4+3,3
 a09c9526e3316571648552d78ac37c2d,radboud,5,5+5,3
 a09f18e1b9cc5c4874d683b06dad9802,radboud,3,4+3,1
