@@ -113,8 +113,8 @@ class Network(nn.Module):
         features=self.backbone(x)
         features=self.heads[4](features)
         features=features.reshape(bs,shape[0],self.ninp)
-        outputs=[self.heads[0](features).squeeze(),F.log_softmax(self.heads[1](features),dim=1),
-                 self.heads[2](features).squeeze(),self.heads[3](features).squeeze()]
+        outputs=[self.heads[0](features).squeeze(-1),F.log_softmax(self.heads[1](features),dim=1),
+                 self.heads[2](features).squeeze(-1),self.heads[3](features).squeeze(-1)]
         # outputs=[]
         # for head in self.heads:
         #     outputs.append(F.log_softmax(head(features),dim=1))
